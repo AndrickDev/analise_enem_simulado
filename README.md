@@ -29,7 +29,7 @@ Este projeto realiza uma análise exploratória de dados de um conjunto de dados
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [(https://github.com/AndrickDev/analise_enem_simulado)](https://github.com/AndrickDev/analise_enem_simulado)
+    git clone https://github.com/AndrickDev/analise_enem_simulado
     cd analise-enem-simulado
   
 
