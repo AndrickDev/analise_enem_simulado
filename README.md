@@ -29,10 +29,9 @@ Este projeto realiza uma análise exploratória de dados de um conjunto de dados
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    cd seu-repositorio
-    ```
-    (Substitua `seu-usuario` e `seu-repositorio` pelo seu próprio usuário e nome do repositório no GitHub).
+    git clone [(https://github.com/AndrickDev/analise_enem_simulado)](https://github.com/AndrickDev/analise_enem_simulado)
+    cd analise-enem-simulado
+  
 
 2.  **Crie um ambiente virtual (recomendado):**
     ```bash
